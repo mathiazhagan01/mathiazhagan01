@@ -5,3 +5,7 @@
 - I’m currently learning Flutter
 - 2020 Goals: Contribute more to Open Source projects
 - Fun fact: I love to write poetry, short stories in Tamil
+
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
