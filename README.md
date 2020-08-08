@@ -15,8 +15,8 @@
 - [Installing Flutter in Android Studio](https://medium.com/flutterpub/installing-flutter-in-android-studio-ec135911ceea?source=rss-ef0c6bef38ba------2)
 <!-- BLOG-POST-LIST:END -->
 
-[![Mathi's github stats](https://github-readme-stats.vercel.app/api?username=mathiazhagan01&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+![Mathi's github stats](https://github-readme-stats.vercel.app/api?username=mathiazhagan01&show_icons=true&theme=material-palenight)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mathiazhagan01&repo=DrawableColorChange&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mathiazhagan01&repo=DrawableColorChange&theme=material-palenight)](https://github.com/mathiazhagan01/DrawableColorChange)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathiazhagan01&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathiazhagan01&theme=material-palenight)
