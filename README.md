@@ -8,11 +8,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [The Beginning — Watch Face — Wear OS](https://medium.com/@mathiazhagan01/the-beginning-watch-face-wear-os-3cebce279461?source=rss-ef0c6bef38ba------2)
-- [Sample Form — Part 2— Flutter](https://medium.com/codechai/sample-form-part-2-flutter-c19e9f37ac41?source=rss-ef0c6bef38ba------2)
-- [Sample Form — Part 1— Flutter](https://medium.com/codechai/sample-form-part-1-flutter-35664d57b0e5?source=rss-ef0c6bef38ba------2)
-- [The Beginning — Flutter](https://medium.com/codechai/the-beginning-flutter-c4bde40c15d6?source=rss-ef0c6bef38ba------2)
-- [Installing Flutter in Android Studio](https://medium.com/codechai/installing-flutter-in-android-studio-ec135911ceea?source=rss-ef0c6bef38ba------2)
+- [AlertDialog Sample](https://androidkotlinsamples.wordpress.com/2017/07/17/alertdialog-sample/)
+- [RecyclerView Sample](https://androidkotlinsamples.wordpress.com/2017/07/08/recyclerview-sample/)
+- [Menu Sample](https://androidkotlinsamples.wordpress.com/2017/06/19/menu-sample/)
+- [Intent Sample](https://androidkotlinsamples.wordpress.com/2017/06/15/intent-sample/)
+- [Hello World 2](https://androidkotlinsamples.wordpress.com/2017/06/13/hello-world-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ![Mathi's github stats](https://github-readme-stats.vercel.app/api?username=mathiazhagan01&show_icons=true&theme=material-palenight)
