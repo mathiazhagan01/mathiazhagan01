@@ -10,11 +10,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [RecyclerView/ListView — Flutter](https://mathiazhagan01.medium.com/recyclerview-listview-flutter-13e0c69925cb?source=rss-ef0c6bef38ba------2)
+- [AlertDialog Sample — Flutter](https://mathiazhagan01.medium.com/alertdialog-sample-flutter-75259de41313?source=rss-ef0c6bef38ba------2)
+- [Menu Sample — Flutter](https://mathiazhagan01.medium.com/menu-sample-flutter-a822f6e08a00?source=rss-ef0c6bef38ba------2)
 - [Status Saver — WCompanion](https://mathiazhagan01.medium.com/status-saver-wcompanion-19e32e1e5b86?source=rss-ef0c6bef38ba------2)
 - [One last ‘Git Cheatsheet of Commands’](https://mathiazhagan01.medium.com/one-last-git-cheatsheet-of-commands-77334f1690bc?source=rss-ef0c6bef38ba------2)
-- [The Beginning — Watch Face — Wear OS](https://mathiazhagan01.medium.com/the-beginning-watch-face-wear-os-3cebce279461?source=rss-ef0c6bef38ba------2)
-- [Sample Form — Part 2— Flutter](https://mathiazhagan01.medium.com/sample-form-part-2-flutter-c19e9f37ac41?source=rss-ef0c6bef38ba------2)
-- [Sample Form — Part 1— Flutter](https://mathiazhagan01.medium.com/sample-form-part-1-flutter-35664d57b0e5?source=rss-ef0c6bef38ba------2)
 <!-- BLOG-POST-LIST:END -->
 
 ![Mathi's github stats](https://github-readme-stats.vercel.app/api?username=mathiazhagan01&show_icons=true&theme=material-palenight)
