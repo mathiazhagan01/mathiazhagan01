@@ -10,11 +10,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Fonts package to your Flutter project](https://mathiazhagan01.medium.com/google-fonts-package-to-your-flutter-project-ac96c76cb90e?source=rss-ef0c6bef38ba------2)
-- [Themes — Part 3 — Flutter](https://mathiazhagan01.medium.com/themes-part-3-flutter-708a07b0a44d?source=rss-ef0c6bef38ba------2)
-- [Themes — Part 2— Flutter](https://mathiazhagan01.medium.com/themes-part-2-flutter-934cdec210ef?source=rss-ef0c6bef38ba------2)
-- [Themes— Part 1 — Flutter](https://mathiazhagan01.medium.com/themes-part-1-flutter-e963d1eeb94?source=rss-ef0c6bef38ba------2)
-- [RecyclerView/ListView — Flutter](https://mathiazhagan01.medium.com/recyclerview-listview-flutter-13e0c69925cb?source=rss-ef0c6bef38ba------2)
+- [AlertDialog Sample](https://androidkotlinsamples.wordpress.com/2017/07/17/alertdialog-sample/)
+- [RecyclerView Sample](https://androidkotlinsamples.wordpress.com/2017/07/08/recyclerview-sample/)
+- [Menu Sample](https://androidkotlinsamples.wordpress.com/2017/06/19/menu-sample/)
+- [Intent Sample](https://androidkotlinsamples.wordpress.com/2017/06/15/intent-sample/)
+- [Hello World 2](https://androidkotlinsamples.wordpress.com/2017/06/13/hello-world-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ![Mathi's github stats](https://github-readme-stats.vercel.app/api?username=mathiazhagan01&show_icons=true&theme=material-palenight)
